@@ -12,4 +12,4 @@
 2. Open CMD and move to the files path
 3. Enter command "set FLASK_APP= app.py"
 4. Enter command "flask run" to run the application
-5. Move on to the webpage "http://127.0.0.1:5000/homepage" in browser
+5. Move on to the webpage url "<localhost url>/homepage" in browser
